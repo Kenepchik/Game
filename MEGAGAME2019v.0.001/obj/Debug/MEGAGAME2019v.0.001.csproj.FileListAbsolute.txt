@@ -1,0 +1,10 @@
+C:\Users\Flm\Desktop\MEGAGAME2019v.0.001\MEGAGAME2019v.0.001\bin\Debug\MEGAGAME2019v.0.001.exe.config
+C:\Users\Flm\Desktop\MEGAGAME2019v.0.001\MEGAGAME2019v.0.001\bin\Debug\MEGAGAME2019v.0.001.exe
+C:\Users\Flm\Desktop\MEGAGAME2019v.0.001\MEGAGAME2019v.0.001\bin\Debug\MEGAGAME2019v.0.001.pdb
+C:\Users\Flm\Desktop\MEGAGAME2019v.0.001\MEGAGAME2019v.0.001\obj\Debug\MEGAGAME2019v.0.001.csprojAssemblyReference.cache
+C:\Users\Flm\Desktop\MEGAGAME2019v.0.001\MEGAGAME2019v.0.001\obj\Debug\MEGAGAME2019v._0._001.Form1.resources
+C:\Users\Flm\Desktop\MEGAGAME2019v.0.001\MEGAGAME2019v.0.001\obj\Debug\MEGAGAME2019v._0._001.Properties.Resources.resources
+C:\Users\Flm\Desktop\MEGAGAME2019v.0.001\MEGAGAME2019v.0.001\obj\Debug\MEGAGAME2019v.0.001.csproj.GenerateResource.cache
+C:\Users\Flm\Desktop\MEGAGAME2019v.0.001\MEGAGAME2019v.0.001\obj\Debug\MEGAGAME2019v.0.001.csproj.CoreCompileInputs.cache
+C:\Users\Flm\Desktop\MEGAGAME2019v.0.001\MEGAGAME2019v.0.001\obj\Debug\MEGAGAME2019v.0.001.exe
+C:\Users\Flm\Desktop\MEGAGAME2019v.0.001\MEGAGAME2019v.0.001\obj\Debug\MEGAGAME2019v.0.001.pdb
